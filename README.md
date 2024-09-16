@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Team Lead **Petronas Sdn Bhd**
 
-- 🌱 I’m currently learning **azure cloud & microsoft Bot Framework**
+- 🌱 I’m currently Working **Angular with Dotnet Core Rest Api**
 
 - 👯 I’m looking to collaborate on **exciting modern project**
 
