@@ -1,23 +1,14 @@
-<h1 align="center">Hi 👋, I'm Mia Mahmudunnabi</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masudcse&label=Profile%20views&color=0e75b6&style=flat" alt="masudcse" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masudcse" alt="masudcse" /></a> </p>
 
-- 🔭 I’m currently working on Team Lead **Petronas Sdn Bhd**
 
-- 🌱 I’m currently Working **Angular with Dotnet Core Rest Api**
-
-- 👯 I’m looking to collaborate on **exciting modern project**
-
-- 🤝 I’m looking for help to **dotnet community based project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/masudcse](https://github.com/masudcse)
 
 - 📝 I regularly write articles on [https://miamahmudunnabi.com/](https://miamahmudunnabi.com/)
 
-- 💬 Ask me about **dotnet stack,azure,database(relational & non relational)**
 
 - 📫 How to reach me **nabicse88@gmail.com**
 
