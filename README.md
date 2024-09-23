@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masudcse&label=Profile%20views&color=0e75b6&style=flat" alt="masudcse" /> </p>
 📝 I regularly write articles on [https://miamahmudunnabi.com/](https://miamahmudunnabi.com/) 
 
-📫 How to reach me **nabicse88@gmail.com**
+📫 How to reach me: **nabicse88@gmail.com**
 
 📄 Know about my experiences [https://miamahmudunnabi.com/contact-us/](https://miamahmudunnabi.com/contact-us/)
 <h3 align="left">Connect with me:</h3>
